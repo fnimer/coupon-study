@@ -1,6 +1,6 @@
 Study: What types of customers accept more "Carry out & Take away" coupons?
 
-GitHub link: https://github.com/fnimer/coupon-study/Coupons-final
+GitHub link: https://github.com/fnimer/coupon-study/noebook/Coupons-final
 
 Problem Statement: I studied the "Carry out & Take away" coupon. Understand if Customers who accepted a Carry out & Take away were ore or less likely to accept he ffer when they have Children, are of any specific marital status or at specific age. Discover the differences between individuals who accepted and rejected the offer.
 
