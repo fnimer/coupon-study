@@ -1,9 +1,8 @@
 Study: What types of customers accept more "Carry out & Take away" coupons?
 
-GitHub link: https://github.com/fnimer/coupon-study/noebook/Coupons-final
+GitHub link: https://github.com/fnimer/coupon-study/notebook/Coupons-final
 
 Problem Statement: I studied the "Carry out & Take away" coupon. Understand if Customers who accepted a Carry out & Take away were ore or less likely to accept he ffer when they have Children, are of any specific marital status or at specific age. Discover the differences between individuals who accepted and rejected the offer.
-
 
 Visualizations: I used mostly Seaborn and Matplotlib and Pandas. Given the type of data analyzed, I used mostly histplots and pairplots that uncover the insights of looking at customer who had children OR had kids as passengers in the car, and age groups and marital status. All plots are stored in the "images" folder, including: 8 plots with the analysis of the types of (histograms named 1a, 1b, 2a, 2b, 3a, 3b, 3c, 3d); additional 8 histograms with data analysis of variables; 2 pairplots. I also ran correlation heatmaps, contingency tables and covariance, and I also ran distributions in every column of the dataset, to understand the data better. I did not save them in images, though. The code is preserved in the notebook. I performed a few data cleansing activities, and transformation of some data types.
 
